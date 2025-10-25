@@ -5,7 +5,7 @@ GoAnalysis 是一个基于 Go 语言开发的埋点数据收集与分析服务�
 
 后续，我们将围绕 Go、.NET、JavaScript/Node.js 构建的多语言微服务，以及基于 Elasticsearch 的搜索场景，系统拆解微服务架构与大中型搜索方案的设计与落地。干货持续更新，敬请关注「代码扳手」微信公众号。：
 
-![wx.jpg](https://github.com/louis-xie-programmer/easyms.es.golang/edit/main/conf/wx.jpg)
+![wx.jpg](wx.jpg)
 
 ## 主要功能
 - 埋点数据收集接口（支持 HTTPS）
