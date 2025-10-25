@@ -3,6 +3,10 @@
 ## 项目简介
 GoAnalysis 是一个基于 Go 语言开发的埋点数据收集与分析服务，支持通过 HTTP/HTTPS 接口接收前端或后端埋点数据，并将数据写入 Kafka 进行后续分析处理。
 
+后续，我们将围绕 Go、.NET、JavaScript/Node.js 构建的多语言微服务，以及基于 Elasticsearch 的搜索场景，系统拆解微服务架构与大中型搜索方案的设计与落地。干货持续更新，敬请关注「代码扳手」微信公众号。：
+
+![wx.jpg](https://github.com/louis-xie-programmer/easyms.es.golang/edit/main/conf/wx.jpg)
+
 ## 主要功能
 - 埋点数据收集接口（支持 HTTPS）
 - 数据写入 Kafka
